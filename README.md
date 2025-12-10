@@ -15,5 +15,6 @@ endmodule Program to implement the given logic function and to verify its operat
 Developed by:HEMA PRIYA  RegisterNumber:25017270
 
 RTL realization Output:
+[image.pdf](https://github.com/user-attachments/files/24081948/image.pdf)
 
 RTL Timing Diagram Result: Thus, the given logic functions are implemented using and their operations are verified using Verilog programming.
